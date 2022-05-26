@@ -1,10 +1,12 @@
 import React from 'react';
 
-import { Title } from './styles';
+import { HeaderWrapper, Title } from './styles';
 
 const Header = () => {
    return (
-    <Title>Title</Title>
+   <HeaderWrapper>
+    <Title>Blog</Title>
+   </HeaderWrapper>
    )
 };
 
