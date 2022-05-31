@@ -1,7 +1,7 @@
 ---
-path: "/my-first-post"
-date: "2017-11-07"
-title: "My first blog post"
+path: "/my-second-post"
+date: "2022-12-04"
+title: "My second blog post"
 ---
 
 ## This is the title
